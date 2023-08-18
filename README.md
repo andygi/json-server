@@ -1,4 +1,4 @@
-# Live Look mock server
+# Json server
 
 ## Set it up
 
