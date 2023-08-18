@@ -1,4 +1,4 @@
-# Live Look mock server
+# auto populate mock server
 
 ## Set it up
 
