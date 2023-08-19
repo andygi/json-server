@@ -4,7 +4,7 @@
   "description": "livelooks_mock",
   "main": "src/js/index.js",
   "scripts": {
-    "server": "json-server index.js --port 3004"
+    "server": "json-server index.js --port 10000"
   },
   "repository": {
     "type": "git",
