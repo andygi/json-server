@@ -12,7 +12,7 @@ const addRecord = () => {
     let config = {
         method: 'post',
         maxBodyLength: Infinity,
-        url: 'http://localhost:3004/content',
+        url: 'http://localhost:10000/content',
         headers: {
             'Content-Type': 'application/json',
         },
